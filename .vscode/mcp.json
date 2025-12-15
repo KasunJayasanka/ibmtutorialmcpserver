@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "ibm-tutorials": {
+      "type": "stdio",
+      "command": "fastmcp",
+      "args": [
+        "run",
+        "/Volumes/Lexar/Projects/ibmtutorialmcpserver/server.py"
+      ],
+      "env": {
+      }
+    }
+  }
+}
